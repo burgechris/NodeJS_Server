@@ -1,0 +1,26 @@
+{
+  "name": "nodebasics",
+  "version": "1.0.0",
+  "description": "Node Server ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burgechris/NodeJS_Server.git"
+  },
+  "author": "Chris Burge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burgechris/NodeJS_Server/issues"
+  },
+  "homepage": "https://github.com/burgechris/NodeJS_Server#readme",
+  "Devdependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
